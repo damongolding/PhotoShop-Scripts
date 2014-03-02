@@ -4,7 +4,7 @@ Just a collection of resources for PhotoShop I have either made or modded.
 
 ## What do I do with them?
 
-Install the toolkit using the ZXP file, then a panel will be available in Window/Extensions
+Install the toolkit using the ZXP file, then a panel will be available in Photoshop via Window > Extensions > Damon's tools
 
 #### Add Extention
 
